@@ -1,1 +1,4 @@
 node_modules
+dist
+nucamp.code-workspace
+css/styles.css
