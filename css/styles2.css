@@ -1,0 +1,46 @@
+body{
+    font-family: "Open Sans", sans-serif;
+   
+}
+
+h1, h2, h3 {
+    font-family: "Bangers";
+}
+
+h2 {
+    color: #72a168;
+}
+
+header h2 {
+    color: #000000;
+}
+
+.site-footer {
+    background-image: linear-gradient(#d17d08, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 10px 50px 20px;
+    padding: 10px;
+    background-image: linear-gradient(to right, #72a168, #87d627, #d6c106);
+    color: #FFFFFF;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200 px;
+}
+
+.navbar {
+    background-color: #d17d08;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #87d627;
+}
